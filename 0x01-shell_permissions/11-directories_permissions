@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R go+755 *
+chmod -R guo+xwr *
